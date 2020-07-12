@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor 2018 (Version 22.0)-->
+  <ClassId>{d43c90c1-41de-4b52-9a66-607d1d13be6e}</ClassId>
+  <ClientId>{d43c90c1-41de-4b52-9a66-607d1d13be6e}</ClientId>
+  <DisplayName>TestingInventorLibrary</DisplayName>
+  <Description>TestingInventorLibrary</Description>
+  <Assembly>TestingInventorLibrary.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

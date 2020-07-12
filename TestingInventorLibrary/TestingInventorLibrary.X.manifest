@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="TestingInventorLibrary" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{d43c90c1-41de-4b52-9a66-607d1d13be6e}" progid="TestingInventorLibrary.StandardAddInServer" threadingModel="Both" name="TestingInventorLibrary.TestingInventorLibrary.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="TestingInventorLibrary.dll" hashalg="SHA1"></file>
+</assembly>

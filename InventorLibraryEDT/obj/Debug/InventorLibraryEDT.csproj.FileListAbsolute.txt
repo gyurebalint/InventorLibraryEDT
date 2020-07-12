@@ -1,0 +1,9 @@
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\bin\Debug\InventorLibraryEDT.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\bin\Debug\InventorLibraryEDT.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\obj\Debug\InventorLibraryEDT.csprojAssemblyReference.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\obj\Debug\InventorLibraryEDT.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\obj\Debug\InventorLibraryEDT.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\obj\Debug\InventorLibraryEDT.csproj.ResolveComReference.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\bin\Debug\EDT_CommonFunctions.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\bin\Debug\EDT_CommonFunctions.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\InventorLibraryEDT\obj\Debug\InventorLibraryEDT.csproj.CopyComplete

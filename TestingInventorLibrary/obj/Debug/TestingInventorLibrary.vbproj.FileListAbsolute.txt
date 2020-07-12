@@ -1,0 +1,15 @@
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.vbprojAssemblyReference.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.vbproj.ResolveComReference.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\TestingInventorLibrary.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\TestingInventorLibrary.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\TestingInventorLibrary.xml
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\InventorLibraryEDT.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\InventorLibraryEDT.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.vbproj.CopyComplete
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.xml
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.Form1.resources
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\obj\Debug\TestingInventorLibrary.vbproj.GenerateResource.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\EDT_CommonFunctions.dll
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ExtendingInventorLibrary\TestingInventorLibrary\bin\Debug\EDT_CommonFunctions.pdb
